@@ -1,0 +1,26 @@
+{
+    "name": "Dhevana Rakha Septian Putra Y- Semarang State Polytechnic students",
+    "description": "a student at Semarang State Polytechnic majoring in electronics engineering, I am an ambitious person and like to learn new things, like to learn autodidactically about things that I like.",
+    "profileImage": "images/foto.JPG",
+    "email": "dhevana48@gmail.com",
+    "phone": "+62 (888) 828-05704",
+    "socialMedia": [
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/_dhevr/profilecard/?igsh=cXBrOXBrZWxvNG9j"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 80},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 70},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 80},
+	{"name": "SEO Writing", "icon": "fas fa-pen", "level": 90},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 80}
+    ]
+}

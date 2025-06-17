@@ -1,0 +1,32 @@
+[
+    {
+        "company": "PT. IKSA MEDIA",
+		"logo":"images/images.jpeg",
+        "position": "Internship",
+        "year": "2019 - 2019",
+        "description": "When I was in vocational high school I did an internship program, I did an internship at PT. IKSA MEDIA which is a branding company. During my internship I was in the position of SEO Writer"
+    },
+	{
+        "company": "PT. KAI",
+		"logo":"images/download.jpeg",
+        "position": "Internship",
+        "year": "2024 - 2024",
+        "description": "When I was in college and entered semester 5, all students had to take part in a mandatory internship as a graduation requirement. I did an internship at PT. KAI which is engaged in the field of train transportation. During my internship I learned a lot about the railway work system. My activities during the internship were carrying out maintenance and repair of signals and telecommunications."
+    },
+    {
+
+        "company": "enthusiastic tutoring semarang",
+		"logo":"images/antusias.jpg",
+        "position": "private teacher",
+        "year": "2024 - 2025",
+        "description": "besides studying I also do part time work, I work as a private teacher at the enthusiastic tutoring center in Semarang for approximately 2 semesters. I teach all elementary and junior high school subjects"
+    },
+    {
+
+        "company": "Domino's Pizza",
+		"logo":"images/dominos.png",
+        "position": "employee",
+        "year": "2025 - now",
+        "description": "besides being a student, i also work as a part time employee at domino's pizza until now. as a part time i feel i can divide my time between lectures and work well. here i get a lot of experience and know how the real working world is"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "title": "fire detection sensor",
+        "year": "2022",
+        "role": "student",
+        "description": "Making a final assignment for a power electronics course, I made a fire sensor using the mq135 sensor as a smoke detector and a photoelectric diode as a heat detector. Then for the output I used a buzzer as a fire alarm.",
+        "image": "images/project1.jpeg"
+    },
+    {
+
+        "title": "automatic fish feeder and water temperature control based on esp 8622",
+        "year": "2023",
+        "role": "student",
+        "description": "in semester 2 i got an assignment in the internet of things course to make a project. i made an automatic fish feeder for ponds which can also detect the temperature and pH levels of the water. then the display is also displayed in blynk so that it can be controlled remotely",
+        "image": "images/project2.jpeg"
+    }
+]
